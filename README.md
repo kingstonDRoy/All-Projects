@@ -14,5 +14,5 @@ I am constantly working on exciting projects, and I hope you find them interesti
 
 If you would like to collaborate or get in touch, feel free to reach out!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kingstonteffyroy/)
-- **Email**: your.email@example.com
+- **LinkedIn**: [(https://www.linkedin.com/in/kingstonteffyroy/)
+- **Email**:kingstondroy@gmail.com
