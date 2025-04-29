@@ -6,13 +6,14 @@ Welcome to my GitHub repository! Here you'll find a collection of projects I've 
 
 I am constantly working on exciting projects, and I hope you find them interesting. Feel free to explore my repository and check out the code.
 
-![Welcome Image](https://cdn.dribbble.com/userupload/19883639/file/original-91529faea4dd975dd6351a3f147d67c0.gif)  
 
----
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/19883639/file/original-91529faea4dd975dd6351a3f147d67c0.gif" alt="Welcome Image" width="400"/>
+</p>
 
 ## Contact Information
 
 If you would like to collaborate or get in touch, feel free to reach out!
 
-- **LinkedIn**: [(https://www.linkedin.com/in/kingstonteffyroy/)
-- **Email**:kingstondroy@gmail.com
+- **Youtube Text Analysis Project - Python and NLP
+- **Employee Perforamce Index Rating Analysis Project - IABAC, Netherlands
