@@ -1,0 +1,46 @@
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgd4d27yj8NzRNaFMAL00Xk6tFkwwgrD9lcQ&s" width="150" alt="IABAC Logo">
+</p>
+
+<h1 align="center">Employee Performance Index Rating Analysis</h1>
+<h3 align="center">A Data Analytics Project for IABAC Netherlands</h3>
+
+---
+
+## 📊 Project Overview
+
+This project aims to analyze and visualize **Employee Performance Index Ratings** to identify patterns, key drivers of performance, and strategic recommendations for workforce optimization.
+
+The dataset was explored using statistical techniques and machine learning algorithms to deliver insights that can guide HR decisions and performance evaluation frameworks.
+
+---
+
+## 🚀 Key Features
+
+- 📌 Exploratory Data Analysis (EDA)
+- 📈 Performance Index Score Calculations
+- 🧠 Predictive Modeling (e.g., Regression, Classification)
+- 📊 Interactive Visualizations
+- 📁 Clean, modular, and well-commented code
+
+---
+
+## 🔧 Technologies Used
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter / Google Colab
+- Markdown, HTML (for formatting)
+- Plotly (optional interactive visualizations)
+
+---
+
+## 📁 Project Structure
+
+```bash
+├── README.md
+├── Employee_Performance_Analysis.ipynb
+├── data/
+│   └── employee_data.csv
+├── output/
+│   ├── performance_index_plot.png
+│   └── model_summary.txt
